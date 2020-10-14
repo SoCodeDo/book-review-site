@@ -1,0 +1,27 @@
+body {
+    background-color: thistle;
+    border: white;
+    font-family: 'Courier New', Courier, monospace
+  }
+
+header {
+    border: turquoise;
+    background-color: tomato;
+}
+
+footer {
+    border: turquoise;
+    background-color: tomato;
+}
+  img {
+    border-radius: 20px;
+    size: 50%;
+    width: 1;
+  }
+
+  h1 {
+      color: teal;
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+
+      

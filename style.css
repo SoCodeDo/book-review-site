@@ -1,27 +1,39 @@
+
 body {
-    background-color: thistle;
+
+background: linear-gradient(to bottom,  pink,#FFAE54);
+    
     border: white;
-    font-family: 'Courier New', Courier, monospace
-  }
+    font-family: 'Courier New', Courier, monospace;
+    color: black
+}
+
+
 
 header {
-    border: turquoise;
-    background-color: tomato;
+    
+    text-align: center;
+    color: #E79796
 }
 
 footer {
-    border: turquoise;
-    background-color: tomato;
+   
+    text-align: center;
+    color: #E79796
 }
-  img {
+img {
     border-radius: 20px;
     size: 50%;
     width: 1;
-  }
+}
 
-  h1 {
-      color: teal;
+h1 {
+      color: orange;
       font-family: 'Courier New', Courier, monospace;
       text-align: center;
+}
 
-      
+article {
+    background-color: white;
+
+}
